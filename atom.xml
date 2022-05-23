@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-05-22T08:11:14.615Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue入门</title>
+    <link href="http://example.com/2022/05/22/vue%E5%AD%A6%E4%B9%A01/"/>
+    <id>http://example.com/2022/05/22/vue%E5%AD%A6%E4%B9%A01/</id>
+    <published>2022-05-22T02:32:51.000Z</published>
+    <updated>2022-05-22T08:11:14.615Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="基于-Node-js-的-Vue-cli-开发模式"><a href="#基于-Node-js-的-Vue-cli-开发模式" class="headerlink" title="基于 Node.js 的 Vue-cli 开发模式"></a>基于 Node.js 的 Vue-cli 开发模式</h2><p>第一步，前往<a href="%22https://nodejs.org/en/download/%22">官网</a>下载对应版本，安装一路确定即可.</p><p>双击下载文件，选择安装路径，安装。</p><p>安装完后在cmd中执行 node -v 查看版本</p><p>安装完后在cmd中执行 npm -v，显示版本号即为安装完成</p><p>第二步</p><p>npm install -g cnpm –registry&#x3D;<a href="http://registry.npm.taobao.org/">http://registry.npm.taobao.org</a>  安装cnpm</p><p>npm install -g @vue-cli 安装脚手架</p><p>第三步</p><p>vue init webpack firstVue 构建项目</p><p>初始化时会让用户输入一些选项（Y&#x2F;N），创建完成后切换到项目目录。</p><p>执行 cnpm install</p><p>之后就可以执行npm run dev，用热加载的方式启动。</p><p>浏览器访问localhost：8080显示界面代表成功<br><img src="/%22../../../img/2022-05-22_160618.png%22"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;基于-Node-js-的-Vue-cli-开发模式&quot;&gt;&lt;a href=&quot;#基于-Node-js-的-Vue-cli-开发模式&quot; class=&quot;headerlink&quot; title=&quot;基于 Node.js 的 Vue-cli 开发模式&quot;&gt;&lt;/a&gt;基于 Node.js </summary>
+      
+    
+    
+    
+    
+    <category term="vue 安装 日常" scheme="http://example.com/tags/vue-%E5%AE%89%E8%A3%85-%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎来到我的博客</title>
+    <link href="http://example.com/2022/05/10/hello-world/"/>
+    <id>http://example.com/2022/05/10/hello-world/</id>
+    <published>2022-05-10T04:51:46.990Z</published>
+    <updated>2022-05-11T07:35:01.650Z</updated>
+    
+    <content type="html"><![CDATA[<p>希望可以共同学习有趣的东西<br></p><p>END….</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;希望可以共同学习有趣的东西&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;END….&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
