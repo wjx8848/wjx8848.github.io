@@ -6,11 +6,11 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-21T13:06:07.131Z</updated>
+  <updated>2022-07-21T13:23:37.444Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>WJX</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/05/22/vue%E5%AD%A6%E4%B9%A01/"/>
     <id>http://example.com/2022/05/22/vue%E5%AD%A6%E4%B9%A01/</id>
     <published>2022-05-22T02:32:51.000Z</published>
-    <updated>2022-07-21T13:06:07.131Z</updated>
+    <updated>2022-07-21T13:23:37.444Z</updated>
     
     <content type="html"><![CDATA[<h2 id="基于-Node-js-的-Vue-cli-开发模式"><a href="#基于-Node-js-的-Vue-cli-开发模式" class="headerlink" title="基于 Node.js 的 Vue-cli 开发模式"></a>基于 Node.js 的 Vue-cli 开发模式</h2><p>第一步，前往<a href="%22https://nodejs.org/en/download/%22">官网</a>下载对应版本，安装一路确定即可.</p><p>双击下载文件，选择安装路径，安装。</p><p>安装完后在cmd中执行 node -v 查看版本</p><p>安装完后在cmd中执行 npm -v，显示版本号即为安装完成</p><p>第二步</p><p>npm install -g cnpm –registry&#x3D;<a href="http://registry.npm.taobao.org/">http://registry.npm.taobao.org</a>  安装cnpm</p><p>npm install -g @vue-cli 安装脚手架</p><p>第三步</p><p>vue init webpack firstVue 构建项目</p><p>初始化时会让用户输入一些选项（Y&#x2F;N），创建完成后切换到项目目录。</p><p>执行 cnpm install</p><p>之后就可以执行npm run dev，用热加载的方式启动。</p><p>浏览器访问localhost：8080显示界面代表成功<br><img src="/../img/1.jpg" alt="vue"></p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://example.com/2022/05/10/hello-world/"/>
     <id>http://example.com/2022/05/10/hello-world/</id>
     <published>2022-05-10T04:51:46.990Z</published>
-    <updated>2022-05-11T07:35:01.650Z</updated>
+    <updated>2022-07-21T13:23:29.023Z</updated>
     
     <content type="html"><![CDATA[<p>希望可以共同学习有趣的东西<br></p><p>END….</p>]]></content>
     
